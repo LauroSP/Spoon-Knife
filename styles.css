@@ -5,7 +5,9 @@
 
 #octocat {
   display: block;
+  width:300px;
   margin: 50px auto;
+} /*changed width from 384px to 300px*/
 
 p {
   display: block;
